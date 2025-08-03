@@ -40,8 +40,6 @@
     </ul>
   </section>
 
-  </section>
-
   <section>
     <h2>📬 Contacto</h2>
     <p>
@@ -49,6 +47,3 @@
       📧 <a href="mailto:evelynmite@gmail.com">evelynmite@gmail.com</a><br />
     </p>
   </section>
-
-</body>
-</html>
